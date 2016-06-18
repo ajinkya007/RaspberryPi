@@ -3,4 +3,5 @@ This repository consists of the mini projects which have been explored on the Ra
 
 ##Projects list
 1.Raspberry Pi private git repository  
+2.Raspberry Pi Tor Router  
 
